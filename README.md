@@ -1,4 +1,4 @@
-# GithubStatsChecker
+# Github Stats Checker
 
 [![GitHub license](https://img.shields.io/github/license/muhtadshah/GithubStatsChecker)](https://github.com/muhtadshah/ithubStatsChecker/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/muhtadshah/GithubStatsChecker)](https://github.com/muhtadshah/GithubStatsChecker/stargazers)
