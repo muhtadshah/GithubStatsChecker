@@ -1,7 +1,7 @@
 # GithubStatsChecker
 
-[![GitHub license](https://img.shields.io/github/License/muhtadshah/GithubStatsChecker)](https://github.com/muhtadshah/GithubStatsChecker/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/Stars/muhtadshah/GithubStatsChecker)](https://github.com/muhtadshah/GithubStatsChecker/stargazers)
+[![GitHub license](https://img.shields.io/github/license/muhtadshah/GithubStatsChecker)](https://github.com/muhtadshah/ithubStatsChecker/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/muhtadshah/GithubStatsChecker)](https://github.com/muhtadshah/GithubStatsChecker/stargazers)
 
 > An automated terminal bot to check GitHub repository and profile information.
 
