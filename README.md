@@ -26,13 +26,13 @@
    ```sh
    git clone https://github.com/muhtadshah/GithubStatsChecker.git```
 2. Navigate to the project directory:
-   ```cd GithubStatsChecker```
+   `cd GithubStatsChecker`
 3. Install the required dependencies:
-   ```pip install requests```
+   `pip install requests`
    
 ### Usage
 1. Run the script:
-   ```python main.py```
+   `python main.py`
 2. Choose an option from menu:
    - Check Repository Information
    - Check User Repositories
