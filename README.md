@@ -23,8 +23,8 @@
 ### Installation
 
 1. Clone the repository:
-   ```sh
-   git clone https://github.com/muhtadshah/GithubStatsChecker.git```
+   `sh
+   git clone https://github.com/muhtadshah/GithubStatsChecker.git`
 2. Navigate to the project directory:
    `cd GithubStatsChecker`
 3. Install the required dependencies:
